@@ -29,7 +29,7 @@ operations = {
 }
 
 
-print("Boncales Calculator")
+print("VonCarles Calculator")
 print("Operations: +, -, *, /, ^")
 
 while True:
